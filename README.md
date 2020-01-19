@@ -1,1 +1,3 @@
 # kuzko
+
+First steps test.
